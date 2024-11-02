@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="terminal",
+    name="looprint",
     version="0.1.0",
     author="Jonathan Lombardo",
     author_email="jonathanlombardo90@gmail.com",
-    description="Simplify and enhance terminal logging with easy-to-use formatting and styling tools.",
+    description="Simplify printing loops progress",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/jonathanlombardo/terminal",
